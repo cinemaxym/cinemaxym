@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Max! 👋
 
-<!--
-**cinemaxym/cinemaxym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer and Software Engineer based in London, UK.
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a Full Stack Web Development Bootcamp at HyperionDev
+- 💻 Skilled in JavaScript, React, Node.js, MongoDB, HTML, CSS, and more!
+- 🤝 Passionate about problem-solving and delivering high-quality results
+- 🚀 Eager to contribute my skills to new and challenging projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/cinemaxym/)
+- 🌐 [Portfolio](https://www.hyperiondev.com/portfolio/113948/)
+- 📫 Email me at maxim.tukanov@gmail.com
