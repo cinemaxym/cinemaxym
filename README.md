@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer and Software Engineer based in London, UK.
 
 - 🎓 Currently pursuing a Full Stack Web Development Bootcamp at HyperionDev
-- 💻 Skilled in JavaScript, React, Node.js, MongoDB, HTML, CSS, and more!
+- 💻 Skilled in JavaScript, React, Node.js, Express.js, MongoDB, HTML, CSS, RESTful API and more!
 - 🤝 Passionate about problem-solving and delivering high-quality results
 - 🚀 Eager to contribute my skills to new and challenging projects
 
