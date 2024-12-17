@@ -10,4 +10,3 @@ I'm a Full Stack Web Developer and Software Engineer based in London, UK.
 ## Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/tukanov/)
 - 🌐 [Portfolio](https://www.hyperiondev.com/portfolio/113948/)
-- 📫 Email me at maxim.tukanov@gmail.com
