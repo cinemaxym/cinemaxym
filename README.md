@@ -1,4 +1,4 @@
-# Hi there, I'm Maks! 👋
+# Hi there, I'm Max! 👋
 
 I'm a Full Stack Web Developer and Software Engineer based in London, UK.
 
